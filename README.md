@@ -1,1 +1,1 @@
-# calculadora
+# Calculadora de salário em TypeScript
